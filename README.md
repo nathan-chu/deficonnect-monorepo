@@ -1,5 +1,5 @@
 # DeFiConnect
-
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=nathan-chu_deficonnect-monorepo&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=nathan-chu_deficonnect-monorepo)
 ## Installation
 
 ### use npm package manager
